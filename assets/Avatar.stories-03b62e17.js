@@ -1,0 +1,2 @@
+import{A as t}from"./index-c71ca996.js";import"./index-f276c179.js";import"./iframe-15473752.js";import"./index-d774b1de.js";import"./jsx-runtime-4fcfe7b0.js";const c={title:"Data display/Avatar",component:t,args:{src:"https://avatars.githubusercontent.com/u/77026784?v=4",alt:"DarkMetaK"},argTypes:{src:{control:"text"}}},e={},m={args:{src:void 0,alt:""}},p=["Primary","WithFallback"];export{e as Primary,m as WithFallback,p as __namedExportsOrder,c as default};
+//# sourceMappingURL=Avatar.stories-03b62e17.js.map
